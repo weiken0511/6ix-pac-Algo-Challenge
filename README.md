@@ -1,4 +1,5 @@
-# Project Title: Pac-Man A* Algorithm
+# Project: 6ix-pac-Algo-Challenge
+
 ## Overview
 Implements A* algorithm with the goal of eating all the pellets in the game in the least amount of time possible.
 
